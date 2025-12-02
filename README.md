@@ -1,6 +1,6 @@
 # Behling_580_Project
 Download zip file and extract. Set current directory in MATLAB to the resulting folder. Run "main.m", which 
-loads in Env and FRF files in folder. This script produces the three figures on the poster (also included as .fig files here).
+loads in Env and FRF files in folder. This script produces the three figures on the poster.
 
 A flight vibration environment was simulated by applying 14 broadband forces to a finite element model and calculating the 
 resulting accelerations as a function of frequency at various locations. This environment represents the true
